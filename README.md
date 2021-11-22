@@ -4,8 +4,8 @@ Java beste programazio-lengoaietatik bereizten duen oinarrizko ezaugarria jaraun
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- Berridazketa: . orr.
-- Eragiketak: . orr.
-- KlaseAbstraktuenDemoa: . orr.
-- Konposizioa: . orr.
-- Objectklasea: . orr.
+- Berridazketa: 148. orr.
+- Eragiketak: 146. orr.
+- KlaseAbstraktuenDemoa: 156. orr.
+- Konposizioa: 164. orr.
+- Objectklasea: 161. orr.
