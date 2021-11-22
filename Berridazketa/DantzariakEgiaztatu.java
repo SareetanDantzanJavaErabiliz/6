@@ -7,12 +7,12 @@
 public class DantzariakEgiaztatu {
     public static void main( String [ ] parametroak ) {
         
-        GizakiBizidunak katua = new IzakiBizidunak( );
-        GizakiBizidunak dantzariBat =  new Dantzari( );
+        IzakiBizidunak katua = new IzakiBizidunak( );
+        IzakiBizidunak dantzariBat =  new Dantzari( );
        
         //Dantzari dantzariBat = new Dantzari ( );
-        // honek GizakiBizidunak klasearen errerferentzia du
-        // Gizaki Bizidunak klasean dagoen metodoa exekutatzen du    
+        // honek IzakiBizidunak klasearen errerferentzia du
+        // IzakiBizidunak klasean dagoen metodoa exekutatzen du    
         katua.mugitu( );
         
         // honek Dantzari klasearen errerferentzia du
@@ -21,7 +21,7 @@ public class DantzariakEgiaztatu {
         
         //dantzariBat.dantzariKlasikoak( );
         //Hau ez du onartzen
-        //GizakiBizidunak klasean metodo hori sortzea eskatzen du
+        //IzakiBizidunak klasean metodo hori sortzea eskatzen du
         //Bestela Dantzari klaseko objektu bat sortu behar dugu
         Dantzari besteDantzariBat = new Dantzari ( );
         besteDantzariBat.dantzariKlasikoak( );
