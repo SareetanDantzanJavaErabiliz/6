@@ -4,7 +4,7 @@
  *
  * Egileak: Iñaki Goirizelaia eta Maider Huarte. UPV/EHU
  */
-public class Dantzari extends GizakiBizidunak {
+public class Dantzari extends IzakiBizidunak {
     
     @Override
     public void mugitu( ) {
