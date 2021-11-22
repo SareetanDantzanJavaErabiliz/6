@@ -7,7 +7,7 @@
 public class DantzariakEgiaztatu {
     public static void main( String [ ] parametroak ) {
         
-        GizakiBizidunak katua = new GizakiBizidunak( );
+        GizakiBizidunak katua = new IzakiBizidunak( );
         GizakiBizidunak dantzariBat =  new Dantzari( );
        
         //Dantzari dantzariBat = new Dantzari ( );
